@@ -1,6 +1,7 @@
-theme: jekyll-theme-slate # 自分が設定したいテーマ
+theme: jekyll-theme-minimal
 encding: utf-8
 plugins: 
   - jekyll-github-metadata
+  - jekyll-avatar
 github : [metadata]
 repository: k141303/k141303.github.io # 自分のアカウントとリポジトリを書きましょう

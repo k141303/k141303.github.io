@@ -1,4 +1,6 @@
-# 中山 功太(Kouta Nakayama)
+# 中山功太(Kouta Nakayama)
+
+## プロフイール
 
 国立情報学研究所 大規模言語モデル研究開発センター(NII LLMC) 特任研究員
 

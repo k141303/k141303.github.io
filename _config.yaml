@@ -1,7 +1,10 @@
-theme: jekyll-theme-minimal
+#theme: minima
+# remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 encding: utf-8
 plugins: 
   - jekyll-github-metadata
   - jekyll-avatar
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 github : [metadata]
-repository: k141303/k141303.github.io # 自分のアカウントとリポジトリを書きましょう
+repository: k141303/k141303.github.io

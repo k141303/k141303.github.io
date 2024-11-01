@@ -64,5 +64,8 @@
 - **中山功太**, 小林暁雄, 関根聡. 共有タスクにおけるGA重み付け加重投票を用いた属性値アンサンブル. 言語処理学会 第25回年次大会, 2019 
 - 小林暁雄, **中山功太**, 関根聡. 森羅:Wikipedia構造化プロジェクト2018結果の分析と考察. 言語処理学会 第25回年次大会, 2019
 
+### プレプリント
+- LLM-jp. LLM-jp:A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs. arXiv, 2024
+
 ### 学会誌記事等
 - **中山功太**, 渋木英潔, 関根聡. 学生・若手研究者のための BERT ワークショップ. 自然言語処理 2023 年 30 巻 1 号 p. 226-233, 2023

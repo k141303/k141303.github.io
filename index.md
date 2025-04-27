@@ -37,6 +37,12 @@
 ## 研究費獲得状況
 - 2020/4 - 2023/3 JST ACT-X「AI活用で挑む学問の革新と創成」
 
+## 受賞
+
+- **中山 功太**, 児玉 貴志, 鈴木 久美, 宮尾 祐介, 関根 聡. llm-jp-judge: 日本語LLM-as-a-Judge評価ツール. 言語処理学会 第31回年次大会, 2025 **優秀賞(上位2%)**
+- 鈴木 久美, 勝又 智, 児玉 貴志, 高橋 哲朗, **中山 功太**, 関根 聡. AnswerCarefully: 日本語LLM安全性向上のためのデータセット. 言語処理学会 第31回年次大会, 2025 **委員特別賞**
+- 関根聡, **中山功太**, 野本昌子, 安藤まや, 隅田飛鳥, 松田耕史. 拡張固有表現に分類された31言語のWikipedia知識ベース, 言語処理学会 第28回年次大会, 2022 **委員特別賞**
+
 ## 研究業績
 
 ### 査読付きジャーナル
@@ -78,6 +84,7 @@
 
 ### プレプリント
 - LLM-jp. LLM-jp:A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs. arXiv, 2024
+- Issa Sugiura, **Kouta Nakayama**, Yusuke Oda, llm-jp-modernbert: A ModernBERT Model Trained on a Large-Scale Japanese Corpus with Long Context Length. arXiv, 2025
 
 ### 学会誌記事等
 - **中山功太**, 渋木英潔, 関根聡. 学生・若手研究者のための BERT ワークショップ. 自然言語処理 2023 年 30 巻 1 号 p. 226-233, 2023

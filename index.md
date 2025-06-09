@@ -15,7 +15,7 @@
 - 2018/1 - 2018/2 理化学研究所 革新知能統合研究センター言語情報アクセス技術チーム 研修生
 
 ### 学歴
-- \- 2025/3 博士(工学)取得
+- \- 2025/3 筑波大学 理工情報生命学術院システム情報工学研究群情報理工学位プログラム 博士(工学)取得
 - 2020/4 - 2023/3 筑波大学 理工情報生命学術院システム情報工学研究群情報理工学位プログラム 満期退学
 - 2018/4 - 2020/3 豊橋技術科学大学 博士前期課程 情報・知能工学課程 修了
 - 2014/4 - 2018/3 豊橋技術科学大学 情報・知能工学課程 卒業
@@ -85,6 +85,7 @@
 ### プレプリント
 - LLM-jp. LLM-jp:A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs. arXiv, 2024
 - Issa Sugiura, **Kouta Nakayama**, Yusuke Oda, llm-jp-modernbert: A ModernBERT Model Trained on a Large-Scale Japanese Corpus with Long Context Length. arXiv, 2025
+- Hisami Suzuki, Satoru Katsumata, Takashi Kodama, Tetsuro Takahashi, **Kouta Nakayama**, Satoshi Sekine. AnswerCarefully: A Dataset for Improving the Safety of Japanese LLM Output. arXiv, 2025
 
 ### 学会誌記事等
 - **中山功太**, 渋木英潔, 関根聡. 学生・若手研究者のための BERT ワークショップ. 自然言語処理 2023 年 30 巻 1 号 p. 226-233, 2023

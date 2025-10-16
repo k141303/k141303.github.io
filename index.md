@@ -61,6 +61,7 @@
 - **Kouta Nakayama**, Satoshi Sekine. LIAT Team’s Wikipedia Classifier at NTCIR-15 SHINRA2020-ML: Classification Task. The 15th NTCIR Conference Evaluation of Information Access Technologies (NTCIR-15), 2020
 
 ### 国内会議
+- 政野 美和, 欅 リベカ, 欅 惇志, 清丸 寛一, **中山 功太**, 堀尾 海斗, 源 怜維, 橘 秀幸, 河原 大輔. LLMの生成テキストの真偽検証のための日本語言説分解データセットの構築. 言語資源ワークショップ2025 (LRW2025), 2025
 - **中山 功太**, 児玉 貴志, 鈴木 久美, 宮尾 祐介, 関根 聡. llm-jp-judge: 日本語LLM-as-a-Judge評価ツール. 言語処理学会 第31回年次大会, 2025 **優秀賞(上位2%)**
 - 鈴木 久美, 勝又 智, 児玉 貴志, 高橋 哲朗, **中山 功太**, 関根 聡. AnswerCarefully: 日本語LLM安全性向上のためのデータセット. 言語処理学会 第31回年次大会, 2025 **委員特別賞**
 - 井之上 直也, 安藤 まや, 後藤 美知子, 関根 聡, **中山 功太**, 宮尾 祐介. 日本語を対象としたLLMの大規模人手評価. 言語処理学会 第31回年次大会, 2025

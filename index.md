@@ -49,9 +49,9 @@
 - **中山 功太**, 栗田 修平, 馬場 雪乃, 関根 聡, 固有表現抽出器学習のための Wikipedia リンク拡張と期待エンティティ率推定, 自然言語処理, 2024, 31 巻, 3 号, p. 1239-1291, 公開日 2024/09/15, Online ISSN 2185-8314, Print ISSN 1340-7619.
 
 ### 査読付き国際会議
-
+- Momoka Furuhashi, **Kouta Nakayama**, Takashi Kodama, Saku Sugawara. Are Checklists Really Useful for Automatic Evaluation of Generative Tasks? The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP2025 Main), 2025.
 - Satoshi Sekine, **Kouta Nakayama**, Masako Nomoto, Maya Ando, Asuka Sumida, Koji Matsuda. Resource of Wikipedias in 31 Languages Categorized into Fine-Grained Named Entities. Proceedings of the 29th International Conference on Computational Linguistics(COLING), 2022.
-- **Kouta Nakayama**, Shuhei Kurita, Akio Kobayashi, Yukino Baba, Satoshi Sekine. Co-Teaching Student-Model through Submission Results of Shared Task. Findings of the Association for Computational Linguistics: EMNLP, 2021.
+- **Kouta Nakayama**, Shuhei Kurita, Akio Kobayashi, Yukino Baba, Satoshi Sekine. Co-Teaching Student-Model through Submission Results of Shared Task. Findings of the Association for Computational Linguistics: EMNLP Findings, 2021.
 - Satoshi Sekine, **Kouta Nakayama**, Maya Ando, Yu Usami, Masako Nomoto, Koji Matsuda. SHINRA2020-ML: Categorizing 30-language Wikipedia into fine-grained NE based on"``Resource by Collaborative Contribution" scheme. 3rd Conference on Automated Knowledge Base Construction(AKBC), 2021.
 - Satoshi Sekine, Akio Kobayashi, **Kouta Nakayama**. Shinra: Structuring wikipedia by collaborative contribution. Automated Knowledge Base Construction(AKBC), 2018.
 

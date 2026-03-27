@@ -49,6 +49,9 @@
 - **中山 功太**, 栗田 修平, 馬場 雪乃, 関根 聡, 固有表現抽出器学習のための Wikipedia リンク拡張と期待エンティティ率推定, 自然言語処理, 2024, 31 巻, 3 号, p. 1239-1291, 公開日 2024/09/15, Online ISSN 2185-8314, Print ISSN 1340-7619.
 
 ### 査読付き国際会議
+- Kei Moriyama, Takashi Kodama and **Kouta Nakayama**. Generation of Instruction and Preference Dataset for Improving Japanese Instruction Following in LLMs. LREC, 2026. 
+- Hisami Suzuki, Satoru Katsumata, Takashi Kodama, Tetsuro Takahashi, **Kouta Nakayama** and Satoshi Sekine. AnswerCarefully: Creating a Dataset for LLM Safety in Japanese. LREC, 2026. 
+- Masano Miwa, Ribeka Keyaki, Atsushi Keyaki, Rei Minamoto, Kaito Horio, Hirokazu Kiyomaru, **Kouta Nakayama**, Hideyuki Tachibana and Daisuke Kawahara. Constructing a Japanese Claim Decomposition Dataset for Fact-Checking of LLM-Generated Texts. LREC, 2026. 
 - Momoka Furuhashi, **Kouta Nakayama**, Takashi Kodama, Saku Sugawara. Are Checklists Really Useful for Automatic Evaluation of Generative Tasks? The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP2025 Main), 2025.
 - Satoshi Sekine, **Kouta Nakayama**, Masako Nomoto, Maya Ando, Asuka Sumida, Koji Matsuda. Resource of Wikipedias in 31 Languages Categorized into Fine-Grained Named Entities. Proceedings of the 29th International Conference on Computational Linguistics(COLING), 2022.
 - **Kouta Nakayama**, Shuhei Kurita, Akio Kobayashi, Yukino Baba, Satoshi Sekine. Co-Teaching Student-Model through Submission Results of Shared Task. Findings of the Association for Computational Linguistics: EMNLP Findings, 2021.
@@ -61,6 +64,18 @@
 - **Kouta Nakayama**, Satoshi Sekine. LIAT Team’s Wikipedia Classifier at NTCIR-15 SHINRA2020-ML: Classification Task. The 15th NTCIR Conference Evaluation of Information Access Technologies (NTCIR-15), 2020.
 
 ### 国内会議
+- 梶川怜恩, **中山功太**, 小田悠介, 神田峻介, 赤部晃一, 二宮崇, 岡崎直観. Omni-JDocVQA: 多種多様な文書を含んだ日本語視覚文書理解ベンチマークの構築. 言語処理学会第 32 回年次大会, 2026. 
+- 佐多亮明, **中山功太**. マルチターン自動レッドチーミングによる安全性強化学習. 言語処理学会第 32 回年次大会, 2026. 
+- 佐々木睦史, **中山功太**, 宮尾祐介, 大関洋平, 磯沼大. 排他的アンラーニング.  言語処理学会第 32 回年次大会, 2026.
+- 古橋萌々香, **中山功太**, 児玉貴志, 菅原朔, 高見 享佑. LLMによる教育的フィードバックの生成と評価. 言語処理学会第 32 回年次大会, 2026.
+- 瀬光孝之, **中山功太**, 鈴木久美, 関根聡. マルチターン対話における人手レッドチーミングと自動レッドチーミングの比較. 言語処理学会第 32 回年次大会, 2026. 
+- 玉腰勇司, **中山功太**, 児玉貴志, 宮尾祐介. 日本語ロングコンテキスト処理能力評価ベンチマークの開発. 言語処理学会第 32 回年次大会, 2026.
+- 清水綾太, **中山功太**, 守山慧, 徳久良子, 宮尾祐介. AIエージェントのためのツール呼び出し評価データJMultiWOZ-TCの構築. 言語処理学会第 32 回年次大会, 2026.
+- 守山慧, 児玉貴志, **中山功太**. LLM の日本語指示追従性向上のための人工データセットの構築. 言語処理学会第 32 回年次大会, 2026. 
+- 政野美和, 清丸寛一, 欅惇志, 堀尾海斗, 源怜維, 欅リベカ, **中山功太**, 橘秀幸, 河原 大輔. LLMの生成テキストの真偽検証のための日本語真偽判定データセットの構築. 言語処理学会第 32 回年次大会, 2026.
+- 清丸寛一, 欅惇志, 欅リベカ, **中山功太**, 堀尾海斗, 政野美和, 源怜維, 橘秀幸, 河原大輔. LLM-jp FactCheck: 学習コーパスに基づく真偽検証によるモデル応答の分析. 言語処理学会第 32 回年次大会, 2026.
+- 政野美和, 欅リベカ, 欅惇志, 清丸寛一, **中山功太**, 堀尾海斗, 源怜維, 橘秀幸, 河原大輔. LLM の生成テキストの真偽検証のための日本語言説分解データセットの構築と評価. 言語処理学会第 32 回年次大会, 2026.
+- 政野美和, 欅リベカ, 欅惇志, 清丸寛一, **中山功太**, 堀尾海斗, 源怜維, 橘秀幸, 河原大輔. LLM の生成テキストの真偽検証のための日本語言説分解データセットの構築. 第265回自然言語処理研究会, 2025. 
 - 政野 美和, 欅 リベカ, 欅 惇志, 清丸 寛一, **中山 功太**, 堀尾 海斗, 源 怜維, 橘 秀幸, 河原 大輔. LLMの生成テキストの真偽検証のための日本語言説分解データセットの構築. 言語資源ワークショップ2025 (LRW2025), 2025.
 - **中山 功太**, 児玉 貴志, 鈴木 久美, 宮尾 祐介, 関根 聡. llm-jp-judge: 日本語LLM-as-a-Judge評価ツール. 言語処理学会 第31回年次大会, 2025. **優秀賞(上位2%)**
 - 鈴木 久美, 勝又 智, 児玉 貴志, 高橋 哲朗, **中山 功太**, 関根 聡. AnswerCarefully: 日本語LLM安全性向上のためのデータセット. 言語処理学会 第31回年次大会, 2025. **委員特別賞**

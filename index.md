@@ -6,20 +6,21 @@
 [X(旧Twitter)](https://x.com/nlpingu)
 
 ### 現職
-- 2024/4 - 国立情報学研究所 大規模言語モデル研究開発センター 特任研究員
+- 2026/07 - 現在 国立情報学研究所 大規模言語モデル研究開発センター 特任助教
 
 ### 職歴
-- 2024/9 - 2025/3 理化学研究所 革新知能統合研究センター言語情報アクセス技術チーム 客員研究員
-- 2020/11 - 2024/3 理化学研究所 革新知能統合研究センター言語情報アクセス技術チーム リサーチアソシエイト(常勤研究員)
-- 2018/8 - 2020/10 理化学研究所 革新知能統合研究センター言語情報アクセス技術チーム 研究パートタイマー
-- 2018/1 - 2018/2 理化学研究所 革新知能統合研究センター言語情報アクセス技術チーム 研修生
+- 2024/04 - 2026/06 国立情報学研究所 大規模言語モデル研究開発センター 特任助教 (2024/4 - 2026/6は特任研究員)
+- 2024/09 - 2025/03 理化学研究所 革新知能統合研究センター言語情報アクセス技術チーム 客員研究員
+- 2020/11 - 2024/03 理化学研究所 革新知能統合研究センター言語情報アクセス技術チーム リサーチアソシエイト(常勤研究員)
+- 2018/08 - 2020/10 理化学研究所 革新知能統合研究センター言語情報アクセス技術チーム 研究パートタイマー
+- 2018/01 - 2018/02 理化学研究所 革新知能統合研究センター言語情報アクセス技術チーム 研修生
 
 ### 学歴
-- \- 2025/3 筑波大学 理工情報生命学術院システム情報工学研究群情報理工学位プログラム 博士(工学)取得
-- 2020/4 - 2023/3 筑波大学 理工情報生命学術院システム情報工学研究群情報理工学位プログラム 満期退学
-- 2018/4 - 2020/3 豊橋技術科学大学 博士前期課程 情報・知能工学課程 修了
-- 2014/4 - 2018/3 豊橋技術科学大学 情報・知能工学課程 卒業
-- 2011/4 - 2014/3 岐阜県立岐阜工業高等学校 卒業
+- \- 2025/03 筑波大学 理工情報生命学術院システム情報工学研究群情報理工学位プログラム 博士(工学)取得
+- 2020/04 - 2023/03 筑波大学 理工情報生命学術院システム情報工学研究群情報理工学位プログラム 満期退学
+- 2018/04 - 2020/03 豊橋技術科学大学 博士前期課程 情報・知能工学課程 修了
+- 2014/04 - 2018/03 豊橋技術科学大学 情報・知能工学課程 卒業
+- 2011/04 - 2014/03 岐阜県立岐阜工業高等学校 卒業
 
 ### 連絡先
 
@@ -46,9 +47,12 @@
 ## 研究業績
 
 ### 査読付きジャーナル
+- 大北 剛*, 勝又 智*, 鎌田 啓輔*, 清丸 寛一*, 児玉 貴志*, 鈴木 潤*, 鈴木 久美*, **中山 功太**\*, Namgi Han*, 宮尾 祐介*. 大規模言語モデルの数学・安全性チューニングコンペティションの設計と分析, 自然言語処理, 2026 年, 33 巻, 2 号, p. 658-690. (*共同筆頭著者)
 - **中山 功太**, 栗田 修平, 馬場 雪乃, 関根 聡, 固有表現抽出器学習のための Wikipedia リンク拡張と期待エンティティ率推定, 自然言語処理, 2024, 31 巻, 3 号, p. 1239-1291, 公開日 2024/09/15, Online ISSN 2185-8314, Print ISSN 1340-7619.
 
 ### 査読付き国際会議
+- Miwa Masano, Hirokazu Kiyomaru, Atsushi Keyaki, Kaito Horio, Rei Minamoto, Ribeka Keyaki, **Kouta Nakayama**, Hideyuki Tachibana, Daisuke Kawahara. Constructing a Japanese Verdict Prediction Dataset for Fact-Checking of LLM-Generated Texts. ACL Student Research Workshop, 2026.
+- Kei Moriyama, **Kouta Nakayama**, Yukino Baba. Task Assignment meets Annotator Modeling: Human-LLM Collaborative Annotation with Constraints. ACL Student Research Workshop, 2026.
 - Kei Moriyama, Takashi Kodama and **Kouta Nakayama**. Generation of Instruction and Preference Dataset for Improving Japanese Instruction Following in LLMs. LREC, 2026. 
 - Hisami Suzuki, Satoru Katsumata, Takashi Kodama, Tetsuro Takahashi, **Kouta Nakayama** and Satoshi Sekine. AnswerCarefully: Creating a Dataset for LLM Safety in Japanese. LREC, 2026. 
 - Masano Miwa, Ribeka Keyaki, Atsushi Keyaki, Rei Minamoto, Kaito Horio, Hirokazu Kiyomaru, **Kouta Nakayama**, Hideyuki Tachibana and Daisuke Kawahara. Constructing a Japanese Claim Decomposition Dataset for Fact-Checking of LLM-Generated Texts. LREC, 2026. 

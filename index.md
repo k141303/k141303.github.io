@@ -72,6 +72,7 @@
 - **Kouta Nakayama**, Satoshi Sekine. LIAT Team’s Wikipedia Classifier at NTCIR-15 SHINRA2020-ML: Classification Task. The 15th NTCIR Conference Evaluation of Information Access Technologies (NTCIR-15), 2020.
 
 ### 国内会議
+- Su Myat Noe, Yunang Wu, **Kouta Nakayama**. Toward a Japanese Office-Task Agent Benchmark: A Preliminary Localization of OdysseyBench. 第21回言語処理若手シンポジウム (YANS2026), 2026.
 - 梶川怜恩, **中山功太**, 小田悠介, 神田峻介, 赤部晃一, 二宮崇, 岡崎直観. Omni-JDocVQA: 多種多様な文書を含んだ日本語視覚文書理解ベンチマークの構築. 言語処理学会第 32 回年次大会, 2026. 
 - 佐多亮明, **中山功太**. マルチターン自動レッドチーミングによる安全性強化学習. 言語処理学会第 32 回年次大会, 2026. 
 - 佐々木睦史, **中山功太**, 宮尾祐介, 大関洋平, 磯沼大. 排他的アンラーニング.  言語処理学会第 32 回年次大会, 2026.

@@ -72,6 +72,7 @@
 - **Kouta Nakayama**, Satoshi Sekine. LIAT Team’s Wikipedia Classifier at NTCIR-15 SHINRA2020-ML: Classification Task. The 15th NTCIR Conference Evaluation of Information Access Technologies (NTCIR-15), 2020.
 
 ### 国内会議
+- **中山 功太**. 漢字制約はLLM生成文を平易化するか：定性的分析. 第269回自然言語処理研究会, 2026.
 - 清水 綾太, **中山 功太**, 守山 慧, 徳久 良子, 宮尾 雄介. AIエージェントのためのツール呼び出し評価データJMultiWOZ-TCの構築. 第21回言語処理若手シンポジウム (YANS2026), 2026.
 - 野村 瑛吉, 杉山 弘晃, 黒田 麻衣子, 清水 良太郎, 高橋 史, 高見 享佑, 安藤 祐介, **中山 功太**, 森 辰則. 子どもにとって安全なLLMとは？〜想定応答に対する人手評価とLLM-as-a-judgeの比較分析〜. 第21回言語処理若手シンポジウム (YANS2026), 2026.
 - 吉村 賢人, 高見 享佑, 古橋 萌々香, **中山 功太**, 児玉 貴志. 小学校漢字学習におけるLLM生成物語の「違和感」の類型化とLLM間の比較. 第21回言語処理若手シンポジウム (YANS2026), 2026.

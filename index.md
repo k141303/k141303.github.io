@@ -51,7 +51,7 @@
 - **中山 功太**, 栗田 修平, 馬場 雪乃, 関根 聡, 固有表現抽出器学習のための Wikipedia リンク拡張と期待エンティティ率推定, 自然言語処理, 2024, 31 巻, 3 号, p. 1239-1291, 公開日 2024/09/15, Online ISSN 2185-8314, Print ISSN 1340-7619.
 
 ### 査読付き国際会議
-- Reon Kajikawa, **Kouta Nakayama**, Yusuke Oda, Shunsuke Kanda, Koichi Akabe, Takashi Ninomiya, Naoaki Okazaki. Omni-JDocVQA: A Comprehensive Japanese Benchmark for Visual Document Understanding via Situation-Driven QA Generation. Findings of the Association for Computational Linguistics: EACL 2027, 2027.
+- Reon Kajikawa, **Kouta Nakayama**, Yusuke Oda, Shunsuke Kanda, Koichi Akabe, Takashi Ninomiya, Naoaki Okazaki. Omni-JDocVQA: A Comprehensive Japanese Benchmark for Visual Document Understanding via Situation-Driven QA Generation. Findings of the Association for Computational Linguistics: EACL 2027, 2027 (to appear).
 - Yoshiaki Sata, **Kouta Nakayama**. Revisiting Co-Evolution for Multi-Turn Safety Alignment: Limitations and Alignment Tax Mitigation. Findings of AACL-IJCNLP 2026, 2026.
 - Momoka Furuhashi, **Kouta Nakayama**, Noboru Kawai, Takashi Kodama, Saku Sugawara, Kyosuke Takami. Investigating Learner-Aware Design of LLM-Generated Educational Feedback. Findings of AACL-IJCNLP 2026, 2026.
 - Momoka Furuhashi, **Kouta Nakayama**, Takashi Kodama, Saku Sugawara, Kyosuke Takami. How Well Can LLMs Simulate Real Learner Evaluations of Educational Feedback? EMNLP 2026 Main Conference, 2026.
